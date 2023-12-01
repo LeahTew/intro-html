@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to bottom right, black, rgb(249, 0, 249));
+}
+p {
+    color: white;
+}
+#csi {
+  border-radius: 25%;
+  padding: 20px;
+  width: 200px;
+  height: 200px;
+}
+#codepic {
+    border: 5px dotted greenyellow;
+    padding: 15px;
+}
+ul {
+    width: 100px;
+    margin: auto;
+    text-align: center;
+    color: orange;
+    
+}
+
+ol {
+    width: 100px;
+    margin: auto;
+    color: aquamarine;
+}
+#header {
+    color: yellow;
+    text-shadow: 2px 2px 20px whitesmoke;
+    font-family: cursive;
+    margin: 25px 50px
+}
+footer {
+    font-size: 10px;
+}
